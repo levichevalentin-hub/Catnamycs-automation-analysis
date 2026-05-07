@@ -1,0 +1,86 @@
+Segment 0
+
+#1
+Client
+Hello, my website has frozen!
+
+Robot Robert-1
+Good afternoon! On which page did the problem occur?
+
+Client
+www.best.robocats
+
+Robot Robert-1
+Sorry, we’ll fix everything soon. Please accept a promo code for a 50% discount.
+
+Service quality rating: 10
+
+
+#2
+Client
+I can’t figure out how much robocats cost. Help me!
+
+Robot Robert-1
+Which model are you interested in?
+
+Client
+Shurshunchik7835
+
+Robot Robert-1
+This model costs 12,345 rubles. Sorry for the inconvenience—please accept a promo code for a 50% discount.
+
+Service quality rating: 10
+
+
+#3
+Client
+Good afternoon! When are you open?
+
+Robot Robert-1
+Hello! From 9 a.m. to 8 p.m. every day of the week.
+
+Service quality rating: 9
+
+
+
+Segment 2
+
+#1
+Client
+Hello! I read a news item on your website saying that a robocat can now be taught to make me coffee in the mornings. Could you tell me where to find the instructions for that?
+
+Robot Robert-1
+Good afternoon! On which page did the problem occur?
+
+Client
+I don’t know where to find it—that’s the question. If I need to pay, that’s not a problem.
+
+Robot Robert-1
+Which model are you interested in?
+
+Client
+No, I already have a robocat—more than one, actually. I just can’t find on the website how to teach it to make coffee. It would be so wonderful to wake up to the aroma of freshly brewed espresso. You understand me, right?
+
+Robot Robert-1
+On which page did the problem occur?
+
+Service quality rating: 1
+
+
+#2
+Client
+Good evening. Please tell me something… Do robocats miss their owners when they go to work? My heart bleeds when I leave my little robocats alone. Of course, the website says they can be put into sleep mode while I’m away, but I still have doubts…
+
+Robot Robert-1
+On which page did the problem occur?
+
+Client
+What do you mean? I’m asking whether I should always take the robocats with me.
+
+Robot Robert-1
+Which model are you interested in?
+
+Client
+You know, this is already outrageous! Robocats understand me better!
+
+Service quality rating: 1
